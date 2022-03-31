@@ -47,7 +47,7 @@
         
             "source": { 
                     "type": "SharedImageVersion", 
-                    "imageVersionID": "/subscriptions/bf75aa33-e54f-419f-b36d-69a6f1a9d84b/resourceGroups/CycleLabs-Dev-2xBuildBox-eastus/providers/Microsoft.Compute/galleries/Cycle2xBuildBox/images/2xBuildBox/versions/1.0.0" 
+                    "imageVersionID": "/subscriptions/bf75aa33-e54f-419f-b36d-69a6f1a9d84b/resourceGroups/CycleLabs-Dev-2xBuildBox-eastus/providers/Microsoft.Compute/galleries/Cycle2xBuildBox/images/2xBuildBox/versions/1.0.0"
                 }, 
             "customize": [
 
