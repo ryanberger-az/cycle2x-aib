@@ -54,6 +54,8 @@
                     {
                         "type": "PowerShell",
                         "name": "CreateBuildPath",
+                        "runElevated": true,
+                        "runAsSystem": true,
                         "scriptUri": "https://raw.githubusercontent.com/danielsollondon/azvmimagebuilder/master/testPsScript.ps1"
                     },
                     {
@@ -71,6 +73,8 @@
                     {
                         "type": "PowerShell",
                         "name": "settingUpMgmtAgtPath",
+                        "runElevated": true,
+                        "runAsSystem": true,
                         "inline": [
                             "mkdir c:\\buildActions",
                             "echo Azure-Image-Builder-Was-Here  > c:\\buildActions\\buildActionsOutput.txt"
