@@ -95,8 +95,8 @@
                     "galleryImageId": "/subscriptions/<subscriptionID>/resourceGroups/<rgName>/providers/Microsoft.Compute/galleries/<sharedImageGalName>/images/<imageDefName>",
                     "runOutputName": "<runOutputName>",
                     "replicationRegions": [
-                      "<region1>",
-                      "<region2>"
+                      "eastus",
+                      "eastus2"
                     ]
                 }
             ]
