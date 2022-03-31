@@ -96,7 +96,7 @@
                     "runOutputName": "<runOutputName>",
                     "replicationRegions": [
                       "eastus",
-                      "eastus2"
+                      "eastus2  "
                     ]
                 }
             ]
